@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome to my Blog</title>
+    <title>Posts on never.stop.learning</title>
     <link>http://www.sergeovchinnikov.com/post/</link>
-    <description>Recent content in Posts on Welcome to my Blog</description>
+    <description>Recent content in Posts on never.stop.learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Mar 2016 13:37:23 -0700</lastBuildDate>
@@ -11,11 +11,11 @@
     
     <item>
       <title>welcome</title>
-      <link>http://www.sergeovchinnikov.com/blog/2016/03/19/welcome/</link>
+      <link>http://www.sergeovchinnikov.com/2016/03/19/welcome/</link>
       <pubDate>Sat, 19 Mar 2016 13:37:23 -0700</pubDate>
       
-      <guid>http://www.sergeovchinnikov.com/blog/2016/03/19/welcome/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+      <guid>http://www.sergeovchinnikov.com/2016/03/19/welcome/</guid>
+      <description>&lt;p&gt;This is the humble beginning of my blog.&lt;/p&gt;
 </description>
     </item>
     

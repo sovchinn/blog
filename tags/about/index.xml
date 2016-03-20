@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>never.stop.learning</title>
-    <link>http://www.sergeovchinnikov.com/</link>
-    <description>Recent content on never.stop.learning</description>
+    <title>About on never.stop.learning</title>
+    <link>http://www.sergeovchinnikov.com/tags/about/</link>
+    <description>Recent content in About on never.stop.learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Mar 2016 13:37:23 -0700</lastBuildDate>
-    <atom:link href="http://www.sergeovchinnikov.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.sergeovchinnikov.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
